@@ -1,0 +1,2 @@
+As to the imbalance, the file Data_Augmentation.ipynb undersampled the majority class and oversampling the minority one in different ratios (R0, R25, R50, R75, R100).
+Finally, the augmentation was sent to classifier that provide state-of-the-art results of the GR problem
