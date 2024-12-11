@@ -1,0 +1,2 @@
+Augmentation Training Set was a folder contained all R0, R25, R50, R75, R100 from the full training set as different ratios of undersampling and oversampling training sets
+By the way, the full training and testing set were also added
