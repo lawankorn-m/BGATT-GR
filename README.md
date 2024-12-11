@@ -8,7 +8,7 @@ CMD to reproduce the algorithm:
 - docker run -it --name BGATT-GR_container BGATT-GR_image
 
 **BGATT-GR has 4 directories**
-- Data: Feature: Descriptors and Feature Fusion
+- Data: Descriptors and Feature Fusion
 - Feature_Selection: Embedding and Selecting the Feature Fusion
 - Train_Test: Augmentation Training , Full Training  and Testing Data
 - Augmentation_CLassification: Augmentation and Classification codes
