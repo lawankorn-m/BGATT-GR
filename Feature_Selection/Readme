@@ -1,0 +1,3 @@
+Feature Selection
+1) The fused features were firstly embedded into the vector representation using BiGRU
+2) The embedded vector was selected by PCA 
